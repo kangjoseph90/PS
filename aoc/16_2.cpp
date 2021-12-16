@@ -91,7 +91,7 @@ struct packet{
     void read_literal(void){ //literal packet 정보 읽기
 
         for(int i=0;i<depth;i++) cout<<' '; //패킷의 구조 출력 (tree 형태)
-        cout<<"literal"<<endl;
+        cout<<"literal "<<type_id<<endl;
 
         int idx=start_idx+6;
         value=0;
@@ -111,7 +111,7 @@ struct packet{
     void read_operator(void){ //operator packet 정보 읽기
         
         for(int i=0;i<depth;i++) cout<<' '; //패킷의 구조 출력 (tree 형태)
-        cout<<"operator"<<endl; 
+        cout<<"operator "<<type_id<<endl; 
         depth++;
 
         int length_type=read(start_idx+6,1);
@@ -180,6 +180,6 @@ void solve(){
 int32_t main(){
     cin>>input;
     binary=str2bin(input);
-    cout<<binary<<endl;
+    //cout<<binary<<endl;
     solve();
 }
