@@ -1,0 +1,1 @@
+{"name":"Local: 17_1","url":"c:\\Users\\kangj\\Documents\\GitHub\\PS\\aoc\\17_1.cpp","tests":[{"id":1639809440813,"input":"20 30 -10 -5","output":"112"},{"id":1639809441656,"input":"94 151 -156 -103","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\kangj\\Documents\\GitHub\\PS\\aoc\\17_1.cpp","group":"local","local":true}
