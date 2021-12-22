@@ -2,20 +2,22 @@
 
 using namespace std;
 
-#define int long long
-
-int n,m;
+int n;
 vector<int> v;
-
-int32_t main(){
+int main(){
     ios_base::sync_with_stdio(false);
     cin.tie(0);
     cout.tie(0);
     cin>>n;
     for(int i=0;i<n;i++){
-        int a;cin>>a;
+        int a; cin>>a;
         v.push_back(a);
-        m+=a;
     }
     sort(v.begin(),v.end());
+    priority_queue<int> pq;
+    for(int i=0;i<(n+1)/2;i++){
+        pq.push(v[i]);
+    }
+    
+
 }
