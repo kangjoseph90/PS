@@ -2,6 +2,8 @@
 
 using namespace std;
 
+#define int long long
+
 int dp[9][81];
 
 int solve(int cnt,int day){
@@ -15,10 +17,10 @@ int solve(int cnt,int day){
     return dp[cnt][day]=ret;
 }
 
-int main(){
+int32_t main(){
     int t;
     cin>>t;
-    long long ans=0;
+    int ans=0;
     while(t--){
         int n;
         cin>>n;

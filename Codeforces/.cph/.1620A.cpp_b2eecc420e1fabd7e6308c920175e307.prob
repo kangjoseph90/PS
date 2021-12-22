@@ -1,0 +1,1 @@
+{"name":"Local: 1620A","url":"c:\\Users\\kangj\\Documents\\GitHub\\PS\\Codeforces\\1620A.cpp","tests":[{"id":1639841728795,"input":"4\nEEE\nEN\nENNEENE\nNENN","output":"YES\nNO\nYES\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\kangj\\Documents\\GitHub\\PS\\Codeforces\\1620A.cpp","group":"local","local":true}
