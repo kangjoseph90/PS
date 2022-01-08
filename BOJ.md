@@ -12,6 +12,7 @@
 | Gold 5 | 2014 | **소수의 곱** | [/boj/2014.cpp](https://github.com/kangjoseph90/PS/blob/master/boj/2014.cpp) | http://boj.kr/2014 |
 | Gold 5 | 2023 | **신기한 소수** | [/boj/2023.cpp](https://github.com/kangjoseph90/PS/blob/master/boj/2023.cpp) | http://boj.kr/2023 |
 | Gold 5 | 2981 | **검문** | [/boj/2981.cpp](https://github.com/kangjoseph90/PS/blob/master/boj/2981.cpp) | http://boj.kr/2981 |
+| Silver 5 | 3100 | **국기 인식** | [/boj/3100.cpp](https://github.com/kangjoseph90/PS/blob/master/boj/3100.cpp) | http://boj.kr/3100 |
 | Gold 4 | 8983 | **사냥꾼** | [/boj/8983.cpp](https://github.com/kangjoseph90/PS/blob/master/boj/8983.cpp) | http://boj.kr/8983 |
 | Platinum 5 | 8986 | **전봇대** | [/boj/8986.cpp](https://github.com/kangjoseph90/PS/blob/master/boj/8986.cpp) | http://boj.kr/8986 |
 | Gold 4 | 10109 | **Troyangles** | [/boj/10109.cpp](https://github.com/kangjoseph90/PS/blob/master/boj/10109.cpp) | http://boj.kr/10109 |
@@ -26,3 +27,11 @@
 | Platinum 5 | 14860 | **GCD 곱** | [/boj/14860.cpp](https://github.com/kangjoseph90/PS/blob/master/boj/14860.cpp) | http://boj.kr/14860 |
 | Gold 4 | 17298 | **오큰수** | [/boj/17298.cpp](https://github.com/kangjoseph90/PS/blob/master/boj/17298.cpp) | http://boj.kr/17298 |
 | Silver 2 | 23057 | **도전 숫자왕** | [/boj/23057.cpp](https://github.com/kangjoseph90/PS/blob/master/boj/23057.cpp) | http://boj.kr/23057 |
+| Gold 4 | 23793 | **두 단계 최단 경로 1** | [/boj/23793.cpp](https://github.com/kangjoseph90/PS/blob/master/boj/23793.cpp) | http://boj.kr/23793 |
+| Bronze 3 | 23803 | **골뱅이 찍기 - ㄴ** | [/boj/23803.cpp](https://github.com/kangjoseph90/PS/blob/master/boj/23803.cpp) | http://boj.kr/23803 |
+| Bronze 3 | 23804 | **골뱅이 찍기 - ㄷ** | [/boj/23804.cpp](https://github.com/kangjoseph90/PS/blob/master/boj/23804.cpp) | http://boj.kr/23804 |
+| Bronze 3 | 23806 | **골뱅이 찍기 - ㅁ** | [/boj/23806.cpp](https://github.com/kangjoseph90/PS/blob/master/boj/23806.cpp) | http://boj.kr/23806 |
+| Bronze 3 | 23808 | **골뱅이 찍기 - ㅂ** | [/boj/23808.cpp](https://github.com/kangjoseph90/PS/blob/master/boj/23808.cpp) | http://boj.kr/23808 |
+| Bronze 3 | 23811 | **골뱅이 찍기 - ㅌ** | [/boj/23811.cpp](https://github.com/kangjoseph90/PS/blob/master/boj/23811.cpp) | http://boj.kr/23811 |
+| Bronze 3 | 23812 | **골뱅이 찍기 - 돌아간 ㅍ** | [/boj/23812.cpp](https://github.com/kangjoseph90/PS/blob/master/boj/23812.cpp) | http://boj.kr/23812 |
+| Silver 3 | 23814 | **아 저는 볶음밥이요** | [/boj/23814.cpp](https://github.com/kangjoseph90/PS/blob/master/boj/23814.cpp) | http://boj.kr/23814 |
