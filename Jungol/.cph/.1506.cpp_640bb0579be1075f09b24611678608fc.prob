@@ -1,0 +1,1 @@
+{"name":"Local: 1506","url":"c:\\Users\\kangj\\OneDrive\\Documents\\GitHub\\PS\\Jungol\\1506.cpp","tests":[{"id":1651996354357,"input":"1\n6\n1 3 6 10\n2 6 7 9\n3 8 4 8\n4 10 2 9\n5 4 1 4\n6 11 9 15","output":"2 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\kangj\\OneDrive\\Documents\\GitHub\\PS\\Jungol\\1506.cpp","group":"local","local":true}
